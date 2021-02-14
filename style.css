@@ -8,18 +8,10 @@ body {
     padding: 10px;
     text-align: center;
   }
-  header h1 {
-  margin: 0; 
-  }
   header ul {
     text-align: left;
+    display: inline;
     margin: 0;
     padding: 0;
     font-size: 0;
-    }
-    header li {
-      list-style: none;
-      display: inline-block;
-      font-size: 20px;
-      margin-left: 10px;
     }
