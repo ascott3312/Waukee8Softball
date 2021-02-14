@@ -8,7 +8,7 @@ body {
     padding: 10px;
     text-align: center;
   }
-  ul {
+  li {
     text-align: left;
     color: black
     display: inline-block;
