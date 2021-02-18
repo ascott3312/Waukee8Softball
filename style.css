@@ -3,7 +3,7 @@ body {
     margin: 0;
   }
   header, footer {
-    background-color:purple;
+    background-color: rgba(172, 9, 241, 0.993);
     color: white;
     padding: 10px;
     text-align: center;
