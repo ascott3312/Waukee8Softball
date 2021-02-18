@@ -30,4 +30,5 @@ body {
   
   tr:nth-child(odd) {
     background-color: #dfdc25;
+    border: 1px solid black;
   }
